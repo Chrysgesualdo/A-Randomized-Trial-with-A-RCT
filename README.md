@@ -1,4 +1,4 @@
-## Project Title: A Randomized Trial with A RCT
+## Project Title: Reducing AUD Inpatient Alcohol Use with MCII: A RCT
 
 **Techniques Used:**
 - Experimental design
